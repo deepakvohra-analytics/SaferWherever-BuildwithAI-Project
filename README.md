@@ -9,3 +9,4 @@ Our project #SaferWherever is a real-time monitoring web application that uses C
 
 GitHub Repository: https://github.com/Build-with-AI-a-team
 YouTube Video: https://www.youtube.com/watch?v=s_-Wf1RwvS0&t=0s
+You can check the app here: https://a-team-mall-monitor.herokuapp.com/
